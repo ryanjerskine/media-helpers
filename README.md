@@ -1,2 +1,2 @@
 # media-helpers
-I collection of useful tools, scripts, and information for media.
+A collection of useful tools, scripts, and information for media.
